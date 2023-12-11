@@ -2,7 +2,7 @@
     "name": "Citrus Booking Page",
     "short_name": "Citrus",
     "description":"A booking page for Citrus Hotels.plc",
-    "start_url":"booking.html",
+    "start_url":"./booking.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
